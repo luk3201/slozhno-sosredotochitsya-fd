@@ -12,7 +12,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root.theme-light {
+  :root {
     --background-color: #FFF1F7;
     --decoration-color: #353430;
     --block-color: #FF8DCB;
