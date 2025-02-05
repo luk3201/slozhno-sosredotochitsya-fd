@@ -24,7 +24,7 @@
     --border-color: rgba(53, 52, 48, 0.4);
     --shadow-color: #FF8DCB;
   }
-  .theme-dark .header__decor {
+  :root.theme-dark {
     --display-header-decor: flex;
   }
 }
