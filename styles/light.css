@@ -6,7 +6,7 @@
   --title-color: #353430;
   --background-image: url("../images/cover-image-light.png");
   --title-font-color: #FFC2E6;
-  --display-header__decor: none;
+  --display-header-decor: none;
   --border-color: rgba(53, 52, 48, 0.4);
   --shadow-color: #FF8DCB;
 }
@@ -20,7 +20,7 @@
     --title-color: #353430;
     --background-image: url("../images/cover-image-light.png");
     --title-font-color: #FFC2E6;
-    --display-header__decor: none;
+    --display-header-decor: none;
     --border-color: rgba(53, 52, 48, 0.4);
     --shadow-color: #FF8DCB;
   }
